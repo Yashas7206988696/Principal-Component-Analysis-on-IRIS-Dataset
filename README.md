@@ -1,4 +1,4 @@
-Overview
+
 This project performs Principal Component Analysis (PCA) on the Iris dataset and visualizes the first three principal components in a 3D scatter plot. It also includes a Seaborn pairplot for quick exploratory analysis. The 3D plot colors points by species and can include a legend and cleaner styling.
 
 Files
